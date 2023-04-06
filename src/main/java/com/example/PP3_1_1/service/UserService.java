@@ -3,8 +3,6 @@ package com.example.PP3_1_1.service;
 import com.example.PP3_1_1.dao.UserDao;
 import com.example.PP3_1_1.model.User;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
-
 
 import java.util.List;
 
