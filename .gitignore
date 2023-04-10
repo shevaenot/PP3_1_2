@@ -32,7 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-.gitignore
-mvmw
-mvnw.cmd
+/mvmw
+/mvnw.cmd
 /.mvn/
