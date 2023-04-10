@@ -35,4 +35,4 @@ build/
 .gitignore
 mvmw
 mvnw.cmd
-/.mvnw/
+/.mvn/
